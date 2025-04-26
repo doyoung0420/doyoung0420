@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Welcome to My GitHub 👋</h1>
 
-<!--
-**doyoung0420/doyoung0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" alt="GitHub Logo" width="400"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 About Me
+- 🔭 I'm working on awesome coding projects!
+- 🌱 Currently learning Python.
+- 🎮 I'm pretty good at gaming and love playing in my free time!
+
+---
+
+  ## 🧱 Tech Stack
+  ### Language
+  <!--Python-->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+
+  ---
