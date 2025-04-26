@@ -9,7 +9,7 @@
 ### 🛠 About Me
 - 🔭 I'm working on awesome coding projects!
 - 🌱 Currently learning Python.
-- 🎮 I'm pretty good at gaming and love playing in my free time!
+- 🎮 I'm pretty good at gaming and love playing Minecraft in my free time!
 
 ---
 
