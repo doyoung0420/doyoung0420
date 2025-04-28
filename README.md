@@ -15,8 +15,7 @@
 
   ## 🧱 Tech Stack
   ### Language
-  <!--Python-->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1200px-Flag_of_South_Korea.svg.png"/>
 
+  
 
   ---
