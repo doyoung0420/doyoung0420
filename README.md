@@ -16,7 +16,7 @@
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1200px-Flag_of_South_Korea.svg.png"/>
 
 
   ---
