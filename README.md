@@ -22,8 +22,7 @@
 
 ## 🔗 Connect
 
-<p align="center">
-  <a href="https://your-link-here.com">https://your-link-here.com</a>
+<a href="(https://discord.gg/PChWeC2p)">(https://discord.gg/PChWeC2p)</a>
 </p>
 
 ---
